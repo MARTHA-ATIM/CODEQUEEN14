@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: burlywood;
+}
+.container {
+margin: auto;
+width: 600px;
+height: 400px;
+background-color:blue ;
+
+
+}
+.blue {
+background-color:rgb(16, 175, 238);
+width: 250px;
+height: 400px;
+float: left;
+text-align: center;
+
+
+}
+.logo {
+width: 200px;
+height: 200px;
+border-radius: 50%;
+margin: 10px;
+box-shadow:3px 3px 3px rgb(8, 61, 82) ;
+}
+.white{
+width:350px;
+height: 400px;
+background-color: white;
+float: right;
+text-align: center;
+
+
+}
+.x-logo{
+height: 30px;
+width: 30px;
+margin-top: 20PX;
+
+}
+.fat{
+width: 200px;
+height:30px;
+border-radius: 15px;
+margin-bottom: 15px;
+border: grey 1px solid;
+
+
+}
+.email {
+    margin-bottom: 15px;
+    height: 40px;
+    width: 200px;
+    border: 2px solid rgb(28, 112, 145);
+    border-radius: 3px;
+}
+.next{
+background-color: black;
+color: white;
+}
+.login{
+height: 50px;
+width: 100px;
+border-radius: 5px;
+border: rgb(16, 175, 238);
+box-shadow: 3px 3px 3px rgb(8, 61, 82);
+font-size: larger;
+
+}
